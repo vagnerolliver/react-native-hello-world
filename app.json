@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeEmpty",
+  "displayName": "ReactNativeEmpty",
+  "expo": {
+    "name": "ReactNativeEmpty",
+    "slug": "ReactNativeEmpty",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
